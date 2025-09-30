@@ -40,7 +40,7 @@ The script also reports summary counts (`realMotionCount`, `modelMotionCount`, `
     └─ README.md                # Project documentation
 
 ## Requirements
-• MATLAB (R2018b or newer)
+- MATLAB (R2018b or newer)
 
 ## License
 This project is licensed under the terms of the [LICENSE](LICENSE) file.
